@@ -6,3 +6,5 @@ echo "${name}"
 #Now with another echo
 echo "${#name}"
 echo "$name"
+#test this kind of echo
+echo "Hello $name"
